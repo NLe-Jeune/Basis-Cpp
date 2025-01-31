@@ -17,4 +17,5 @@ int main()
         std::cout << std::string(floor-i, ' ') << std::string(2*i+1, '*') << std::endl;
         }
     }
+    return 0;
 }
